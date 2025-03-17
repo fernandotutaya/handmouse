@@ -25,7 +25,7 @@ El sistema detecta la mano a través de la cámara, calibra el fondo para aislar
 
 1. **Clona o descarga este repositorio**:
    ```bash
-   git clone https://github.com/fernadnotutaya/handmouse.git
+   git clone https://github.com/fernandotutaya/handmouse.git
    cd handmouse
    ```
 
