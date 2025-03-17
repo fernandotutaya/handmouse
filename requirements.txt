@@ -2,3 +2,15 @@ opencv-python
 numpy
 pyautogui
 mediapipe
+
+
+
+hand_mouse/
+│
+├── main.py                  # Punto de entrada principal
+├── config.py                # Configuraciones globales
+├── calibration.py           # Funciones de calibración
+├── gesture_detection.py     # Detección de gestos
+├── movement.py              # Control de movimiento
+├── utils.py                 # Utilidades varias
+└── README.md                # 
